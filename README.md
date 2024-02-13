@@ -6,6 +6,6 @@ For data collection in this project, only Python BeatifulSoup and Pandas are not
 
 For data analysis, which is showcased in the sql file. I first wanted to understand the scale for the analysis. By series, by power level etc. I've discovered that for each series, the prices are not crazy apart, so by series seems to be a nice way to approach the problem, plus our product team has gone through power level analysis, which is also by series.
 
-When I manually collected the data, there was 100 items that are duplicated. You could see me identify it and eliminate it. 
+When I manually collected the data, there was 100 items that are duplicated. You could see me identify them and eliminate them. 
 
 Next step is to get our product and sales team involved on telling me the series numbers for comparable product so I could come to the conclusion like "For xxx series, our pricing is 10% more than yyy competitor".
