@@ -6,6 +6,8 @@ For data collection in this project, only Python BeatifulSoup and Pandas are not
 
 For data analysis, which is showcased in the SQL file. I first wanted to understand how I should organize the data - by series, by power level, etc. I've discovered that for each series, the prices are not crazy apart, so by series seems to be a nice way to approach the problem, plus our product team has gone through power level analysis, which is also by series.
 
-When I manually collected the data, 100 items are duplicated. You could see me identify them and eliminate them. 
+When I manually collected the data, 100 items were duplicated. You could see me identify them and eliminate them. 
 
 The next step is to get our product and sales team involved in identifying the series numbers for comparable products so I could conclude like "For xxx series, our pricing is 10% more than yyy competitor".
+
+This will give the exec team a good idea of where we're priced too high and where we're priced too low. This is especially useful considering the multiple mergers & acquisitions that happened in the past years, where brands of all market positioning were brought under the same AE umbrella, while prices remained scattered around the place. This helps with One AE marketing strategy.
