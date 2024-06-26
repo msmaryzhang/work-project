@@ -2,7 +2,7 @@ This is part of my pricing analysis effort against a competitor.
 
 The competitor is very well known in the space for being a leader at catalog-type distribution channels (vs. sales-driven/traditional ones), so after consulting with the sales leaders, I've decided to conduct a price analysis using publicly available data from a catalog website DigiKey.
 
-I've collected data in CSV and Excel format and I ingested the data to SQL.
+I collected data in CSV and Excel format and I ingested the data to SQL.
 
 For the analysis, I first wanted to understand how to organize the data - by series, or by power level. I've discovered that for each series, the prices are not far off, so by series is a nice way to approach the problem. 
 
