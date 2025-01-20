@@ -1,6 +1,6 @@
 This is a pricing analysis against a competitor.
 
-The competitor is very well known in the space for being a price leader at catalog-type distribution channels (vs. sales-driven/traditional ones), this pricing analysis aims to evaluate if it's worth reducing the price to become competitive.
+The competitor is very well known in the space for being a price leader at catalog-type distribution channels (vs. sales-driven/traditional ones), this pricing analysis aims to evaluate if it's worth reducing price to become competitive.
 
 Data is collected from DigiKey.
 
